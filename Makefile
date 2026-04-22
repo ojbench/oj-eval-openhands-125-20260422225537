@@ -1,4 +1,4 @@
-CC=g++-13
+CC=g++
 CXXFLAGS=-O2 -std=gnu++17 -pipe -s -DNDEBUG
 
 all: code
